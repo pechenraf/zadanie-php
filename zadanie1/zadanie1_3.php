@@ -1,4 +1,4 @@
-php<?php
+<?php
 $a = readline(prompt: "Введите месяц(1-12): ");
 switch ($a) {
     case 1:
